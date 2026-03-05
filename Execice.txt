@@ -1,0 +1,22 @@
+NOM COMPLET h1
+image img 
+Formation Experience Competence 
+<a ></a>
+
+Formation 
+   -form1
+   -form2
+   -form3
+Experience 
+   1-Experience
+   2-Experience
+
+Compétence:
+  Technique:
+    -HTML
+    -CSS
+  Soft skills:  
+    -travail d'equipe
+    -autonome
+
+Télecharget Mon Cv 

@@ -1,0 +1,2 @@
+Id ProductName Price Stock  ProductImage  Action
+1   TV          200$   10       image           Link(Voir) Link(edit) Link(supprimer)
